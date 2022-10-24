@@ -4,7 +4,8 @@ The Database used is MongoDB with ODM Mongoose.
 <h2>Purpose</h2>
 The purpose of the application is to store the data in the todolist in both home route and in custom List URL's entered by the user.
 Here the user can delete the particular item instead of crossing it out.
-![image](https://user-images.githubusercontent.com/54775910/197577716-32483954-21f2-46ac-9f13-446672b3a2c1.png)
+![image](https://user-images.githubusercontent.com/54775910/197579421-8d9d6d89-0e69-4f33-afe0-d32a1e0965f9.png)
+
 This is the homepage of the web application.
 <h2>Features</h2>
 <ul>
